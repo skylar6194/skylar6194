@@ -69,7 +69,7 @@
   <a href="https://www.linkedin.com/in/exploregagan/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="linktr.ee/gagan.cse" target="_blank">
+  <a href="https://linktr.ee/gagan.cse" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
   </a>
   <a href="mailto:gaganjotsingh.cse@gmail.com" target="_blank">
@@ -85,7 +85,7 @@
 <img align="right" height="110" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTlha2ZkZGRrMW41czJrbmhrc2VsYjVhZnJmNmF6MDk4NXZjdnEydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif"  />
 
 ###
-<img align = "left" height="115" src="https://raw.githubusercontent.com/skylar6194/skylar6194/output/snake.svg" alt="Snake animation" />
+<img align = "left" height="125" src="https://raw.githubusercontent.com/skylar6194/skylar6194/output/snake.svg" alt="Snake animation" />
 
 ###
 
