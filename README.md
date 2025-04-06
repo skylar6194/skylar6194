@@ -85,12 +85,8 @@
 <img align="right" height="100" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTlha2ZkZGRrMW41czJrbmhrc2VsYjVhZnJmNmF6MDk4NXZjdnEydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif"  />
 
 ###
-<img align = "left" height="90" src="https://raw.githubusercontent.com/skylar6194/skylar6194/output/snake.svg" alt="Snake animation" />
+<img align = "left" height="140" src="https://raw.githubusercontent.com/skylar6194/skylar6194/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/skylar6194/count.svg?"  />
-</div>
 
-###
