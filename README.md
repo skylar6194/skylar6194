@@ -13,7 +13,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?logo=androidstudio&logoColor=black&style=for-the-badge" height="30" alt="androidstudio logo"  />
@@ -82,14 +82,14 @@
 
 ###
 
-<img align="right" height="100" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTlha2ZkZGRrMW41czJrbmhrc2VsYjVhZnJmNmF6MDk4NXZjdnEydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif"  />
+<img align="right" height="120" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTlha2ZkZGRrMW41czJrbmhrc2VsYjVhZnJmNmF6MDk4NXZjdnEydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif"  />
 
 ###
-<img align = "left" src="https://raw.githubusercontent.com/skylar6194/skylar6194/output/snake.svg" alt="Snake animation" />
+<img align = "left" height="70" src="https://raw.githubusercontent.com/skylar6194/skylar6194/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://profile-counter.glitch.me/skylar6194/count.svg?"  />
 </div>
 
