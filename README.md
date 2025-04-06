@@ -85,12 +85,8 @@
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTlha2ZkZGRrMW41czJrbmhrc2VsYjVhZnJmNmF6MDk4NXZjdnEydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif"  />
 
 ###
-[//]:<img src="https://raw.githubusercontent.com/skylar6194/skylar6194/output/snake.svg" alt="Snake animation" />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skylar6194/skylar6194/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/skylar6194/skylar6194/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/skylar6194/skylar6194/output/github-snake.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/skylar6194/skylar6194/output/snake.svg" alt="Snake animation" />
+
 ###
 
 <div align="center">
