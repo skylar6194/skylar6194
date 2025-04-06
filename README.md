@@ -1,3 +1,6 @@
+<img align = "center" height="150" src="https://raw.githubusercontent.com/skylar6194/skylar6194/output/snake.svg" alt="Snake animation" />
+
+
 <h2 align="center">Hi !👋<br>My name is Gaganjot and I wish to skydive someday ⚔️</h2>
 
 ###
